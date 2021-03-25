@@ -27,6 +27,10 @@ db_table_prefix is set to test_
 db_port is set to 1099
 ```
 
+### Note
+
+You can use `%option nounput yylineno` in lex file.
+
 ### TODO
 
 - Adding `fopen()` to read yyinput from file
