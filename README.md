@@ -40,6 +40,6 @@ Feel free to participate and develop.
 
 ### Acknowledgment
 
-I saw an video from Jonathan Engelsma and It's encouraged me to do this project myself.
+I saw an lecture from Prof. Jonathan Engelsma and It's encouraged me to do this project myself.
 
 © Copyright Max Base
