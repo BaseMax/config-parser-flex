@@ -27,6 +27,12 @@ db_table_prefix is set to test_
 db_port is set to 1099
 ```
 
+### TODO
+
+- Adding `fopen()` to read yyinput from file
+
+Feel free to participate and develop.
+
 ### Acknowledgment
 
 I saw an video from Jonathan Engelsma and It's encouraged me to do this project myself.
