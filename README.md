@@ -37,4 +37,4 @@ Feel free to participate and develop.
 
 I saw an video from Jonathan Engelsma and It's encouraged me to do this project myself.
 
-© COpyright Max Base
+© Copyright Max Base
