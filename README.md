@@ -1,4 +1,4 @@
-# config-parser-flex
+# config-parser-flex in C
 
 A tiny parser to read content of a own config file using pure c and flex library.
 
