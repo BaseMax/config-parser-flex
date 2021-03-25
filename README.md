@@ -34,6 +34,7 @@ You can use `%option nounput yylineno` in lex file.
 ### TODO
 
 - Adding `fopen()` to read yyinput from file
+- Using keyName as value (e.g: `db_name : db_name`)
 
 Feel free to participate and develop.
 
