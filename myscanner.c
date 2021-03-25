@@ -30,6 +30,17 @@ int main(void) {
           printf("%s is set to %s\n", names[ntoken], yytext);
           break;
         
+       case PORT:
+          if(vtoken != INTEGER) {
+              printf("Syntax error in line %d, Expected an integer but found %s\n", yylineno, yytext);
+              return 1;
+          }
+          printf("%s is set to %s\n", names[ntoken], yytext);
+          break;
+
+      default:
+        printf("Syntax error in line %d\n", yylineno);
+
     }
 
     ntoken = yylex(); // go next token
